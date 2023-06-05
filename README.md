@@ -9,9 +9,9 @@ README dosyası, bir adet de index.html barındırıyor.
 
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
 git clone https://github.com/buozdemi/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 
@@ -19,10 +19,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''
+```
 cd kodluyoruz ilk repo
 code .
-'''
+```
 
 ## Contributing
 
